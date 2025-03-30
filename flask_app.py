@@ -11,7 +11,7 @@ def test():
 
 @app.route("/yuki") #代表我們要處理的網路路徑
 def yuki():
-    return "yuki's website"
+    return "yuki's website 0330"
 
 if __name__=="__main__": #如果以主程式執行
     app.run()  # 立刻啟動伺服器
